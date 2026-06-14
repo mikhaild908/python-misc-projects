@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=ubuntu-runner
+Exec=gnome-terminal -- /home/miked/Scipts/ubuntu-runner
+Type=Application
